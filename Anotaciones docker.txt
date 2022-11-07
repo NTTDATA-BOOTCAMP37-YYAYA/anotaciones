@@ -4,3 +4,6 @@ Anotaciones importantes para la implementacion de eureka y docker
 - se debe establecer el mismo network para todos los microservicios 
 - En docker, no se hace referencias con localhost 
 
+
+
+repositorio anterior
